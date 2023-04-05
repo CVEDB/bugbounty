@@ -158,12 +158,12 @@ header {
 }
 
 /* h1. */
-.disclose-logo {
+.cvedb-logo {
   margin: 0 0 1em 0;
 }
 
 /* h1 svg image. */
-.disclose-logo__svg {
+.cvedb-logo__svg {
   border-radius: 50%;
   box-shadow: 0px 25px 50px 0px rgba(0, 0, 0, 0.12);
   font-size: calc(64px + (96 - 64) * (100vw - 536px) / (992 - 536));
@@ -185,7 +185,7 @@ header {
   font-weight: 600;
 }
 
-.hero__disclose {
+.hero__cvedb {
   font-size: 112.75%;
 }
 
